@@ -7,7 +7,3 @@
 - 🖥️ I'm studying in an IT technician course in Etec Aristoteles Ferreira
 
 - ❤️ I'm passionate about understanding Design and Frontend development
-
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
-
-
