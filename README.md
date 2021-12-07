@@ -1,9 +1,10 @@
-# Hi there wave
-A little bit more of me...
+# Hi there 
 
-I'm studying in an IT technician course in Etec Aristoteles Ferreira
+*A little bit more of me...*
 
-sparkling_heart I'm passionate about understanding Design and Frontend development
+- I'm studying in an IT technician course in Etec Aristoteles Ferreira
+
+- I'm passionate about understanding Design and Frontend development
 
 book Even though I'm not an expert, I like to share my knowledge with other people
 <!---
