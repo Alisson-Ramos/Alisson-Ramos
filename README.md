@@ -7,3 +7,7 @@
 - 🖥️ I'm studying in an System Development technician course in Etec Aristoteles Ferreira
 
 - ❤️ I'm passionate about understanding Design and Frontend development
+
+## My Skills
+
+![]https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/html5.svg ![]https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/css3.svg ![]https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/javascript.svg
