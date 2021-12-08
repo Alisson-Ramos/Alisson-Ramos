@@ -10,4 +10,4 @@
 
 ## My Skills
 
-![](https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/html5.svg)![] ![](https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/css3.svg)![] ![](https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/javascript.svg)![]
+<img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/html5.svg" width="100" height="100"> ![](https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/css3.svg) ![](https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/javascript.svg)
