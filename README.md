@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AlissonForbidden&theme=dark&show_icons=true" href="https://github.com/Alisson" height="150em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonForbidden&hide=html&layout=compact&theme=dark" href="https://github.com/iuricode/" height="150em">
 </p>
-<p align="center"> Sobre mim:</p>
+<p align="center"> 🔗 Contact me with:</p>
 
 <p align="center">
 <a href="https://www.instagram.com/alisu403/" target="_blank"> <img src="https://img.shields.io/badge/alisu403-000?style=for-the-badge&logo=instagram&logoColor=8A39DB"> </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> <img src="https://img.shields.io/badge/AlisuForbidden-000?style=for-the-badge&logo=twitter&logoColor=8A39DB"> </a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvnttTCMqZLcKHRvrTzgSZPfTFzndgdvxHVpKkVkVkmRndFGQCwgZpXVDrWKWQRGcTZLCT" target="_blank"> <img src="https://img.shields.io/badge/alisson.r.santos92-000?style=for-the-badge&logo=gmail&logoColor=8A39DB"> </a>
