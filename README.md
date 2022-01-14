@@ -20,10 +20,8 @@
 ### My Skills
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlissonForbidden&theme=dark&show_icons=true" href="https://github.com/AlissonForbidden" height="150em">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonForbidden&hide=html&layout=compact&theme=dark" href="https://github.com/AlissonForbidden/" height="150em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonForbidden&hide=html&layout=compact&theme=dark" href="https://github.com/AlissonForbidden/" height="150em"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlissonForbidden&theme=dark" height="150em">  
 </p>
-  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AlissonForbidden&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/AlissonForbidden)  
   
