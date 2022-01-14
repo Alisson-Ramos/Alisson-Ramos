@@ -24,13 +24,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AlissonForbidden&theme=dark&show_icons=true" href="https://github.com/Alisson" height="150em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonForbidden&hide=html&layout=compact&theme=dark" href="https://github.com/iuricode/" height="150em">
 </p>
-<p style="text-align:center; font-size:18px; margin:0px;"> Sobre mim:</p>
+<p align="center"> Sobre mim:</p>
 
-<p style="text-align:center;">
-<a href="https://www.instagram.com/alisu403/" target="_blank"> ![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white) </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white) </a>
+<p align="center">
+<a href="https://www.instagram.com/alisu403/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 
 </p>
-
- ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white) 
-  
+ 
 </details>
