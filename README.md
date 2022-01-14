@@ -7,7 +7,7 @@
 </p>
 
 <details>
-<summary align="center">Ver Mais...</summary>
+<summary align="center">See more...</summary>
 
 # Hi there 👋
 
