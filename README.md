@@ -1,15 +1,13 @@
-<img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg" >
-
-<img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg" >
+<img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg" style="margin:auto;" >
 
 
-<p style="text-align: center;">
+<p style="text-align:center;">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </p>
 <details>
-<summary>Ver Mais...</summary>
+<summary style="margin:auto;">Ver Mais...</summary>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoscape&color=%23F71D4F&size=26&center=true&vCenter=true&lines=%E2%9C%A8+Welcome+to+my+github+%E2%9C%A8)](https://git.io/typing-svg)
 
