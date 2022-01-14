@@ -13,7 +13,7 @@
 
 **A little bit more of me...**
 
-- 🖥️ I'm studying in an System Development technician course in Etec Aristoteles Ferreira
+- 🖥️ I'm studying in an System Development technician course in <a href="http://etecaf.com.br">Etec Aristoteles Ferreira</a>
 
 - ❤️ I'm passionate about understanding Design and Frontend development
 
@@ -25,7 +25,7 @@
 <p align="center"> Sobre mim:</p>
 
 <p align="center">
-<a href="https://www.instagram.com/alisu403/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=8A39DB"> </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=8A39DB"> </a>
+<a href="https://www.instagram.com/alisu403/" target="_blank"> <img src="https://img.shields.io/badge/alisu403-000?style=for-the-badge&logo=instagram&logoColor=8A39DB"> </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> <img src="https://img.shields.io/badge/AlisuForbidden-000?style=for-the-badge&logo=twitter&logoColor=8A39DB"> </a> <a href="alisson.r.santos92@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/alisson.r.santos92-000?style=for-the-badge&logo=gmail&logoColor=8A39DB"> </a>
 
 </p>
 
