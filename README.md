@@ -1,13 +1,13 @@
-<img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg" >
+<img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg" style="margin:auto;" >
 
 
-<p align="center">
+<p style="text-align:center;">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </p>
-
-<summary>Ver Mais...</summary>
+<details>
+<summary style="margin:auto;">Ver Mais...</summary>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoscape&color=%23F71D4F&size=26&center=true&vCenter=true&lines=%E2%9C%A8+Welcome+to+my+github+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -20,15 +20,17 @@
 - ❤️ I'm passionate about understanding Design and Frontend development
 
 ### My Skills
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlissonForbidden&theme=dark&show_icons=true" href="https://github.com/Alisson" height="150em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonForbidden&hide=html&layout=compact&theme=dark" href="https://github.com/iuricode/" height="150em">
 </p>
+<p style="text-align:center; font-size:18px; margin:0px;"> Sobre mim:</p>
 
-<p align="center"> Sobre mim:</p>
-
-<p align="center">
-<a href="https://www.instagram.com/alisu403/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"> </a>
+<p style="text-align:center;">
+<a href="https://www.instagram.com/alisu403/" target="_blank"> ![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white) </a> <a href="https://www.twitter.com/AlisuForbidden" target="_blank"> ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white) </a>
 
 </p>
+
+ ![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white) 
+  
+</details>
