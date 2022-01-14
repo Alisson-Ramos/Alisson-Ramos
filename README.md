@@ -23,8 +23,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonForbidden&hide=html&layout=compact&theme=dark" href="https://github.com/AlissonForbidden/" height="150em"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlissonForbidden&theme=dark" height="150em">  
 </p>
 
-![Profile views](https://gpvc.arturio.dev/AlissonForbidden)  
-  
+<p align="center">
+<img src="https://gpvc.arturio.dev/AlissonForbidden">  
+</p>
+   
 <p align="center"> 🔗 Contact me with:</p>
 
 <p align="center">
