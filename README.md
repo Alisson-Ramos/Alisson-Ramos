@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg">
+<p align="center" ><img src="https://github.com/AlissonForbidden/AlissonForbidden/blob/main/img/logo.svg"></p>
 
 
 <p align="center">
