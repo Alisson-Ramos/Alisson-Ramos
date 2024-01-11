@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/__alisu013__/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:alisson.r.santos92@gmail.com?subject=Contato%20-%20via%20Github" target="_blank"> <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </p>
 <summary align="center">See more...</summary>
 
