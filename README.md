@@ -1,24 +1,68 @@
+<h1 align="left">👋 Olá mundo, eu sou Alisson Ramos!</h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Monoscape&color=%23F71D4F&size=26&center=true&vCenter=true&lines=%E2%9C%A8+Welcome+to+my+github+%E2%9C%A8"></p>
+###
 
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="20px"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20px"> <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20px">  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20px"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20px"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20px"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="20px">  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" height="20px"> 
-</p>
+<p align="left">Quem sou eu afinal? Sou desenvolvedor de sistemas com formação técnica em Desenvolvimento de Sistemas pela ETEC e atualmente cursando Tecnólogo em Análise e Desenvolvimento de sistemas na IFSP apaixonado em programação e em conhecer novas tecnologias. Desde os 16 anos, venho desenvolvendo habilidades técnicas e interpessoais e sempre buscando conhecimento.</p>
 
-<details>
-<p align="center"> 🔗 Contact me with:</p>
+###
 
-<p align="center">
-<a href="https://www.instagram.com/__alisu013__/" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=white"> </a> <a href="mailto:alisson.r.santos92@gmail.com?subject=Contato%20-%20via%20Github" target="_blank"> <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-</p>
-<summary align="center">See more...</summary>
+<h2 align="left">🎓 Formação</h2>
 
-# Hi there 👋
+###
 
-**A little bit more of me...**
+<p align="left">🖥️ Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSP Cubatão<br>🖥️ Técnico em Desenvolvimento de Sistemas - ETEC ARISTÓTELES FERREIRA</p>
 
-- 🖥️ I'm studying in an System Development technician course in <a href="http://etecaf.com.br">Etec Aristoteles Ferreira</a>
+###
 
-- ❤️ I'm passionate about understanding Design and Frontend development
-</details>
+<h2 align="left">🖥️  Experiência</h2>
+
+###
+
+<p align="left">🖥️ Suporte Técnico na Hidromar Industria Quimica</p>
+
+###
+
+<h2 align="left">👩‍💻 Habilidades</h2>
+
+###
+
+<p align="left">HTML | CSS | JAVASCRIPT | ANGULARJS | IONIC FRAMEWORK | C#  | C++ | .NET | SQL | GIT | AD</p>
+
+###
+
+<h4 align="left">Em Aprendizado</h4>
+
+###
+
+<p align="left">Poweshell | .NET CORE | C</p>
+
+###
+
+<h2 align="left">Contato</h2>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/alissonramos013" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alisson.r.santos92@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/alisson.ramos013" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alisson-Ramos&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alisson-Ramos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
