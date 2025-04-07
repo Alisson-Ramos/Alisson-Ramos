@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Poweshell | .NET CORE | C</p>
+<p align="left">Poweshell | .NET CORE | C | JAVA</p>
 
 ###
 
