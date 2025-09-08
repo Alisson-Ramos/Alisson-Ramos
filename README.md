@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">HTML | CSS | JAVASCRIPT | ANGULARJS | IONIC FRAMEWORK | C#  | C++ | .NET | SQL | GIT | AD</p>
+<p align="left">HTML | CSS | JAVASCRIPT | ANGULARJS | IONIC FRAMEWORK | C#  | C++ | .NET | MYSQL | MSSQL | GIT | AD | Powershell</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Poweshell | ADVPL | C | JAVA</p>
+<p align="left"> ADVPL | C | JAVA | Next.js | TypeScript </p>
 
 ###
 
